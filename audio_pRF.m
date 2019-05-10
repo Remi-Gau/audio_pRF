@@ -19,6 +19,7 @@
 % implment gaussian
 
 clear
+close all
 clc
 
 %% stimulus parameters
